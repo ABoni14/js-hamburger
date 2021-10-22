@@ -1,4 +1,4 @@
-const hamburgerMenu = document.getElementsByClassName("hamburger-menu");
+const hamburgerMenu = document.getElementById("hamburger-menu");
 const openClose = document.getElementById("close");
 
 openClose.addEventListener('click',function(){
